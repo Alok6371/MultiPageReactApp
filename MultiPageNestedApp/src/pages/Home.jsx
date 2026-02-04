@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div
 
-      className=' bg-blue-400 h-[100vh]'>Home Page</div>
+      className=' bg-[#2563EB] h-[100vh]'>Home Page</div>
   )
 }
 
