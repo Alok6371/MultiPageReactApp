@@ -4,7 +4,7 @@ const Home = () => {
   return (
     <div
 
-      className='mt-[10vh] bg-blue-400 h-[1000vh]'>Home Page</div>
+      className='mt-[10vh] bg-blue-400 h-[100vh]'>Home Page</div>
   )
 }
 
