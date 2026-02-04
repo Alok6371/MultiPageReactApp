@@ -3,7 +3,7 @@ import React from 'react'
 const Web = () => {
   return (
     <div
-      className='h-[60vh] bg-green-600'>Web</div>
+      className='h-[60vh] bg-[#2563EB]'>Web</div>
   )
 }
 

@@ -2,7 +2,7 @@ import React from 'react'
 
 const Uiux = () => {
   return (
-    <div className='bg-lime-300 h-[60vh]'>
+    <div className='bg-[#FB923C] h-[60vh]'>
       UIUX
     </div>
   )
